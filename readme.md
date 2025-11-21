@@ -30,6 +30,7 @@ then run:
 ```
 
 ## Video demo
+[![Demo](https://raw.githubusercontent.com/chhavx1618/fun_stuff/main/Screencast%20from%202025-11-21%2000-27-16.gif)](https://raw.githubusercontent.com/chhavx1618/fun_stuff/main/Screencast%20from%202025-11-21%2000-27-16.webm)
 
 
 
